@@ -1,0 +1,10 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  ezknitr: ezknitr.html
+last_built: 2021-07-19T23:32Z
+urls:
+  reference: https://docs.ropensci.org/ezknitr/reference
+  article: https://docs.ropensci.org/ezknitr/articles
+

@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8159b24216cac2678b32799052cf3823163cc636",
+    "author": "Dean Attali <daattali@gmail.com>",
+    "time": "2021-01-09 02:13:01",
+    "files": 6,
+    "merge": false,
+    "message": "migrate from travis to GHA\n"
+  },
+  "remote": "https://github.com/ropensci/ezknitr",
+  "pkg": "ezknitr"
+}
