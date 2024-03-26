@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4bd1832a7bea661816bc9c1777b2f85d1dd7a594",
+    "author": "Dean Attali <daattali@gmail.com>",
+    "time": "2023-08-20 01:51:32",
+    "files": 2,
+    "merge": false,
+    "message": "bump version 0.6.2 -> 0.6.3\n"
+  },
+  "repo": "https://github.com/ropensci/ezknitr",
+  "pkg": "ezknitr"
+}
